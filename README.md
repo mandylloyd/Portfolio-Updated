@@ -1,3 +1,3 @@
 # Portfolio-Updated
 
-A simple portfolio made with HTML/CSS/Materialize.
+A simple portfolio made with HTML/CSS/Bootstrap.
